@@ -1,0 +1,5 @@
+CompileFlags:
+  Add:
+    - -std=c++23
+    - -I/usr/include/python3.14
+    - -I/usr/lib/python3.14/site-packages/numpy/_core/include
